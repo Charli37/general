@@ -7,7 +7,7 @@ Salesforce Consultant
 I've studied and worked a lot in the Marketing field. During the COVID pandemic, I started to listen to the tinkering voice within me and studied to become a developer. Then, I decided to use my marketing and developer skills to work in the CRM world, particularly with Salesforce.
 
 * 🌍  I'm based in ITALY (Napoli)
-* 🖥️  See my portfolio at [my website](http://carlodebonis.it)
+* 🖥️  See my portfolio at [my website](https://carlodebonis.it)
 * ✉️  You can contact me at [email@carlodebonis.it](mailto:email@carlodebonis.it)
 * 🚀  I'm currently working on [Spaghetti Salesforce](http://www.youtube.com/@spaghettisalesforce)
 * 🧠  I'm learning Apex code
